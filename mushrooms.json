@@ -1,21 +1,17 @@
-{
-    "Sliders": [
-        {
-            "Title": "來跳舞吧~!",
-            "text": "不想上班不想工作那就來跳舞吧!",
-            "image": "https://github.com/Linjay7421/Linjay7421.github.io/tree/main/mushroom/Dance.gif"
-        }, {
-            "Title": "打架阿~!",
-            "text": "看到你這菇就只想打你",
-            "image": "https://github.com/Linjay7421/Linjay7421.github.io/tree/main/mushroom/Fight.gif"
-        }, {
-            "Title": "便個魔術~!",
-            "text": "用魔術嚇死你 嘿嘿~",
-            "image": "https://github.com/Linjay7421/Linjay7421.github.io/tree/main/mushroom/Magic.gif"
-        }, {
-            "Title": "汗顏...",
-            "text": "老闆現在在你後面他很火",
-            "image": "https://github.com/Linjay7421/Linjay7421.github.io/tree/main/mushroom/Sweat.gif"
-        }
-    ]
-}
+[{
+    "Title": "來跳舞吧~!",
+    "text": "不想上班不想工作那就來跳舞吧!",
+    "image": "https://github.com/Linjay7421/Linjay7421.github.io/tree/main/mushroom/Dance.gif"
+}, {
+    "Title": "打架阿~!",
+    "text": "看到你這菇就只想打你",
+    "image": "https://github.com/Linjay7421/Linjay7421.github.io/tree/main/mushroom/Fight.gif"
+}, {
+    "Title": "便個魔術~!",
+    "text": "用魔術嚇死你 嘿嘿~",
+    "image": "https://github.com/Linjay7421/Linjay7421.github.io/tree/main/mushroom/Magic.gif"
+}, {
+    "Title": "汗顏...",
+    "text": "老闆現在在你後面他很火",
+    "image": "https://github.com/Linjay7421/Linjay7421.github.io/tree/main/mushroom/Sweat.gif"
+}]
