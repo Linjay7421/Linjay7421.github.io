@@ -1,13 +1,24 @@
-[{ 
-    "Hand Tools and Accessories": [{
-        "Extension / F & Sliding handle": [
-            "Extension","F & Sliding handle"
-        ]
-    }, {
-        "Gear Wrench": []
-    }]
-}, {
-    "Impact Socket and Accessories": [{
-        "Impact Accessories": []
-    }]
-}]
+{
+    "layer1":[
+        {
+            "name": "Hand Tools and Accessories",
+            "layer2": [
+                {
+                    "name": "Extension / F & Sliding handle",
+                    "layer3": ["Extension","F & Sliding handle"]
+                }, {
+                    "name": "Gear Wrench",
+                    "layer3": []
+                }
+            ]
+        }, {
+            "name": "Impact Socket and Accessories",
+            "layer2": [
+                {
+                    "name": "Impact Accessories",
+                    "layer3": []
+                }
+            ]
+        }
+    ]
+}
