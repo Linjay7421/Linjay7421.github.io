@@ -1,23 +1,23 @@
 {
     "data": [
         {
-            "squence": "1",
+            "sequence": "1",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
             "path": "test-img.jpg"
         }, {
-            "squence": "2",
+            "sequence": "2",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
             "path": "test-img.jpg"
         }, {
-            "squence": "3",
+            "sequence": "3",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
             "path": "test-img.jpg"
         }, {
-            "squence": "4",
+            "sequence": "4",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
             "path": "test-img.jpg"
         }, {
-            "squence": "5",
+            "sequence": "5",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
             "path": "test-img.jpg"
         }
