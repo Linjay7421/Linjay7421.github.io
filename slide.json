@@ -3,23 +3,23 @@
         {
             "sequence": "1",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
-            "path": "test-img.jpg"
+            "path": "test-img1.jpg"
         }, {
             "sequence": "2",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
-            "path": "test-img.jpg"
+            "path": "test-img2.jpg"
         }, {
             "sequence": "3",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
-            "path": "test-img.jpg"
+            "path": "test-img3.jpg"
         }, {
             "sequence": "4",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
-            "path": "test-img.jpg"
+            "path": "test-img4.jpg"
         }, {
             "sequence": "5",
             "IMG": "https://raw.githubusercontent.com/Linjay7421/Linjay7421.github.io/main/test-img.jpg",
-            "path": "test-img.jpg"
+            "path": "test-img5.jpg"
         }
     ]
 }
